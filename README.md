@@ -199,7 +199,7 @@ npm start
 
 ## 🏆 Créditos
 
-**Desarrollado como solución al "Gran Desafío del Scraping Arcano"**
+**Desarrollado como solución al "Gran Desafío del Scraping Arcano" de Sherpa.wtf**
 
 > *"¡Prepárate para la aventura de automatización más épica jamás creada!"*
 
