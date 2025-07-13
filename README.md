@@ -1,10 +1,7 @@
 # 🧙‍♂️ El Gran Desafío del Scraping Arcano 🧙‍♂️
 
-> **Solución completa y profesional al desafío técnico de automatización web**
-
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.54+-blue.svg)](https://playwright.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🎯 Descripción del Proyecto
 
